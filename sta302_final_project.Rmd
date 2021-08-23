@@ -850,9 +850,11 @@ The contribution of both of us is the same. Here is a detailed list of the mills
 
 ## Reference
 
-- Plot one variables against many others: https://www.datanovia.com/en/blog/how-to-plot-one-variable-against-multiple-others/
-- Box-cox Transformation: https://www.statisticshowto.com/box-cox-transformation/
-- Ordinal Data: https://www.formpl.us/blog/ordinal-data
+- Plot one variables against many others: https://www.datanovia.com/en/blog/how-to-plot-one-variable-against-multiple-others/. The idea of the plot in [\underline{Correlation between Variables and Quiz 4 scores}](#correlation-between-variables-and-quiz-4-scores) is borrowed from the above website.
+
+- Box-cox Transformation: https://www.statisticshowto.com/box-cox-transformation/. The website provides details on Box-cox transformation, which is used in addressing the violation of [\underline{Normality Assumption}](#3-normality-assumption).
+
+- Ordinal Data: https://www.formpl.us/blog/ordinal-data. This website introduces ordinal data, which is referenced in [\underline{Limitations of Model}](#limitations-of-model).
 
 ## Code
 
